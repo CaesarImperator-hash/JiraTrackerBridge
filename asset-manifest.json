@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/JiraTrackerBridge/static/js/main.569ea14b.js",
+    "index.html": "/JiraTrackerBridge/index.html",
+    "main.569ea14b.js.map": "/JiraTrackerBridge/static/js/main.569ea14b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.569ea14b.js"
+  ]
+}
